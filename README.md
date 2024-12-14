@@ -1,5 +1,31 @@
 # Protojam_superSelf
+Projet collectif réalisé en temps limité (36h max) sur le thème de la bienveillance. SuperSelf est un site web qui génère des citations, un super héros inspirant et des tonnes de confettis enforme de coeur en fonction de nos pensées du moment.
 
+### Stack :
+
+REACT / TYPESCRIPT / HTML / CSS / JS
+
+### La team :
+
+Benjamin Rose https://github.com/Ben5978lab
+
+Alice Pougeart https://github.com/alicepgrd
+
+Clément Praud https://github.com/Koraltaron
+
+Cyrus Weir https://github.com/CyrusWeir
+
+Emilie De Duyver https://github.com/EmiLy-Ly-san
+
+## Aperçu
+![desktop-light-homepage](https://github.com/user-attachments/assets/395c6e54-57d6-48d7-9db4-d2fa5caa3372)
+![desktop-dailyQuotes-light](https://github.com/user-attachments/assets/d50da896-3dce-4696-b2e2-12c38b69fdf4)
+![desktop-dark-hompage](https://github.com/user-attachments/assets/efb5f87f-abe3-4001-b011-f9713873f530)
+![mobile-darktheme](https://github.com/user-attachments/assets/43be318a-6f78-4904-a354-67afbec2dfff) ![mobileJPG](https://github.com/user-attachments/assets/d7e83665-bcf1-4b39-8340-c504e4f7b618) 
+![mobile-dark-quotes](https://github.com/user-attachments/assets/64353960-022a-4a2e-aca2-fbc7021f7e20) ![mobilelightconf](https://github.com/user-attachments/assets/06ed86c0-6f26-464c-8786-7c5ab876cde5)
+
+
+## ProtoJam_WildCodeSchool
 Ce projet est un monorepo JS, suivant l'architecture React-Express-MySQL telle qu'enseignée à la Wild Code School (v7.1.7) :
 
 ```mermaid
